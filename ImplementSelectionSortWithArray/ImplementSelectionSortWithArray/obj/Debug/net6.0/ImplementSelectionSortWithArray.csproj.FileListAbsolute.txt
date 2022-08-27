@@ -1,0 +1,15 @@
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\bin\Debug\net6.0\ImplementSelectionSortWithArray.exe
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\bin\Debug\net6.0\ImplementSelectionSortWithArray.deps.json
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\bin\Debug\net6.0\ImplementSelectionSortWithArray.runtimeconfig.json
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\bin\Debug\net6.0\ImplementSelectionSortWithArray.dll
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\bin\Debug\net6.0\ref\ImplementSelectionSortWithArray.dll
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\bin\Debug\net6.0\ImplementSelectionSortWithArray.pdb
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\obj\Debug\net6.0\ImplementSelectionSortWithArray.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\obj\Debug\net6.0\ImplementSelectionSortWithArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\obj\Debug\net6.0\ImplementSelectionSortWithArray.AssemblyInfoInputs.cache
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\obj\Debug\net6.0\ImplementSelectionSortWithArray.AssemblyInfo.cs
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\obj\Debug\net6.0\ImplementSelectionSortWithArray.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\obj\Debug\net6.0\ImplementSelectionSortWithArray.dll
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\obj\Debug\net6.0\ref\ImplementSelectionSortWithArray.dll
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\obj\Debug\net6.0\ImplementSelectionSortWithArray.pdb
+D:\kia prjc\tamrin\ImplementSelectionSortWithArray\ImplementSelectionSortWithArray\obj\Debug\net6.0\ImplementSelectionSortWithArray.genruntimeconfig.cache
